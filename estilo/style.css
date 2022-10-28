@@ -16,7 +16,7 @@ body, html {
 
 body > div.img01 {
     background-image: url(../imagens/image1.jpg);
-    opacity: 0.70;
+    min-height: 400px;
     height: 100vh;
     background-position: center;
     background-repeat: no-repeat;
